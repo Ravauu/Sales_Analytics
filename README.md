@@ -98,3 +98,45 @@ The largest clients, such as Euro Shopping Channel and Mini Gifts Distributors L
 However, the remaining sales are distributed evenly across many smaller customers.
 The Pareto principle (80/20) is not fully confirmed here — 80% of total revenue is reached only after including the majority of customers,
 which indicates a broad and well-balanced customer base.  
+
+### 📈 Sales Trend Over Time (2003–2005)  
+
+<img width="687" height="382" alt="image" src="https://github.com/user-attachments/assets/10a51e32-6106-4ea5-8b5d-b70cceafcad5" />  
+
+**Description:**  
+
+Monthly sales trends were analyzed for the years 2003–2005 to identify seasonal patterns and performance dynamics  
+
+**Results:**  
+
+Sales show consistent quarterly fluctuations with a significant peak in Q4 each year, indicating strong year-end performance.
+The upward trendline reflects overall business growth, while recurring Q4 spikes suggest increased demand during the holiday season.  
+
+### 🌎 Top 5 Product Sales by Country  
+
+<img width="737" height="474" alt="image" src="https://github.com/user-attachments/assets/8f9eb923-4c09-44a7-961d-97b0a15eeb9a" />  
+
+**Description:**  
+
+Visualization compares the sales of the five best-selling products across all countries  
+
+**Results:**  
+
+The USA leads by a wide margin in total product sales, followed by France and Spain.
+Most countries demonstrate balanced distribution among the top products, with no single item monopolizing the market.  
+
+### 🗺️ Total Sales by Country (Top 5 Products Combined)  
+
+<img width="743" height="485" alt="image" src="https://github.com/user-attachments/assets/a10b69f2-91df-4642-b7fb-ba0748c5da6d" />  
+
+**Description:**  
+
+Geographical visualization of total sales for the top 5 products combined  
+
+**Results:**  
+
+The United States dominates overall sales, generating over $370K, followed by Spain, France, and Australia.
+European markets perform strongly, while Asian and smaller regions contribute less significantly to global totals.  
+
+
+
