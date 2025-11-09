@@ -122,7 +122,7 @@ Visualization compares the sales of the five best-selling products across all co
 
 **Results:**  
 
-The USA leads by a wide margin in total product sales, followed by France and Spain.
+The USA leads by a wide margin in total product sales.
 Most countries demonstrate balanced distribution among the top products, with no single item monopolizing the market.  
 
 ### 🗺️ Total Sales by Country (Top 5 Products Combined)  
@@ -138,5 +138,58 @@ Geographical visualization of total sales for the top 5 products combined
 The United States dominates overall sales, generating over $370K, followed by Spain, France, and Australia.
 European markets perform strongly, while Asian and smaller regions contribute less significantly to global totals.  
 
+## 3️⃣ 📈 Regression Analysis – Sales Trend Validation  
+
+<img width="700" height="395" alt="image" src="https://github.com/user-attachments/assets/fb79e051-c3e4-423a-9448-04935f8dd460" />  
 
 
+**📘 Description:**  
+
+A linear regression model was built to evaluate the relationship between time (month) and sales value across the analyzed period (2003–2005).
+The goal was to statistically verify the trend observed earlier in the line chart.  
+
+**📊 Results:**  
+
+- R = 0.336 → indicates a weak to moderate positive correlation between time and sales.  
+- R² = 0.113 → only about 11% of sales variation is explained by time, meaning sales are influenced by additional seasonal or external factors.  
+- F = 3.31, p = 0.08 → the model as a whole is not statistically significant at α = 0.05, meaning the observed trend is not strong enough to be confirmed statistically.  
+
+**🧩 Interpretation:**  
+
+The regression confirms a slight upward trend in sales over time, but the relationship is weak and not statistically significant.
+This suggests that seasonal effects (e.g., strong Q4 spikes) and external influences play a much greater role in shaping total sales than time alone.  
+
+## 4️⃣ 🧠 Optimization Model – Profit Maximization using Excel Solver  
+
+**📘 Description:**  
+
+An optimization model was built in Excel using the Solver add-in to maximize total profit while keeping the total cost within a fixed budget limit of $500,000.
+The model determines the optimal number of product categories to produce or sell under defined constraints.  
+
+**⚙️ Solver Configuration:**  
+
+Objective: Maximize total profit  
+
+Changing variables: Decision Column  
+
+Constraints:  
+
+- Each product quantity must be an integer  
+- Minimum 1 unit per product  
+- Maximum 15 units per product  
+- Total cost cannot exceed the budget ($500 000)  
+
+Solving method: LP Simplex  
+
+**📊 Results:**
+
+Total Cost: $500,000
+
+Total Profit: $46,613,781
+
+The Solver selected Classic Cars as the most profitable product line, allocating the maximum allowed quantity (15 units),
+while keeping all other categories at minimum feasible levels (1–14 units).
+
+🧩 Interpretation:
+The model confirms that under the current cost–profit ratios, focusing on the Classic Cars segment yields the highest return on investment within the given budget.
+This optimization demonstrates how Solver can be applied in Excel to support strategic resource allocation and product mix decisions.
