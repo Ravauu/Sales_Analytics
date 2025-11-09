@@ -5,7 +5,8 @@ The project presents a complete sales data analysis process — from data cleani
 
 ## 1️⃣ Data Import & Preparation (Power Query)
 
-<img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/1d96a565-d113-42e8-a499-680bd2eb99e3" />
+<img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/1d96a565-d113-42e8-a499-680bd2eb99e3" />  
+
 **Actions Performed:**  
 
 - Loaded the dataset into Power Query  
@@ -19,6 +20,7 @@ The project presents a complete sales data analysis process — from data cleani
 ### 📦 Order Status
 
 <img width="1068" height="355" alt="image" src="https://github.com/user-attachments/assets/f86a0d45-b2be-419d-8a42-dc1ce6b96c48" />
+
 **Description:**  
 
 All order statuses (Shipped, Disputed, Cancelled, On Hold, etc.) were summarized along with their respective counts  
@@ -31,6 +33,7 @@ A small share of Cancelled and Disputed orders (<5%) confirms good customer serv
 ### 💰 Sales per Product  
 
 <img width="1008" height="439" alt="image" src="https://github.com/user-attachments/assets/c0f188ae-ed1d-4501-a2de-57deacae30d9" />
+
 **Description:**  
 
 Comparison of the 10 best-selling products based on total sales value  
@@ -43,6 +46,7 @@ while the remaining products stay within a similar range of 130–190K $, indica
 ### 📅 Sales per Year  
 
 <img width="974" height="354" alt="image" src="https://github.com/user-attachments/assets/3114aa6c-f9c8-4d68-9784-513c9271421c" />
+
 **Description:**  
 
 Total sales aggregated by year (2003–2005)  
@@ -55,6 +59,7 @@ while 2005 shows a decline (~1.79M $), which is explained by a limited data rang
 ### 🌍 Average Margin per Country  
 
 <img width="1011" height="459" alt="image" src="https://github.com/user-attachments/assets/2f8da51c-161a-4376-8953-441a68913f72" />
+
 **Description:**  
 
 The average profit margin (%) was calculated for each country and visualized on a world map  
@@ -68,6 +73,7 @@ The global average margin equals approximately **~34%**.
 ### 🧮 Sales & Profit per Customer  
 
 <img width="849" height="461" alt="image" src="https://github.com/user-attachments/assets/d94e6d70-8036-40a2-b62e-c8b9b3da3950" />
+
 **Description:**  
 
 Customer ranking based on total sales and profit  
@@ -81,6 +87,7 @@ Together, these two clients generate over 15% of total company sales
 ### 📊 Pareto Analysis – Customer Sales  
 
 <img width="831" height="505" alt="image" src="https://github.com/user-attachments/assets/790490a8-2f32-4d14-926d-84602089a865" />
+
 **Description:**  
 
 Pareto (80/20) analysis based on the share of each customer in total sales  
