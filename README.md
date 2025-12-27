@@ -3,7 +3,7 @@
 
 The project presents a complete sales data analysis process — from data cleaning in Power Query, through analytical exploration in Excel (pivot tables, KPI calculations), to building an optimization model using Solver and visualizing the results in Power BI
 
-## 1️ Data Import & Preparation (Power Query)
+## 1️. Data Import & Preparation (Power Query)
 
 <img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/1d96a565-d113-42e8-a499-680bd2eb99e3" />  
 
@@ -15,7 +15,7 @@ The project presents a complete sales data analysis process — from data cleani
 - Corrected formatting for key columns: `ORDERDATE`, `SALES`, `QUANTITYORDERED`  
 - Added helper columns such as `Year`, `Month`, `Country`  
 
-## 2️ Sales Analysis and Order Status
+## 2️. Sales Analysis and Order Status
 
 ### Order Status
 
@@ -138,7 +138,7 @@ Geographical visualization of total sales for the top 5 products combined
 The United States dominates overall sales, generating over $370K, followed by Spain, France, and Australia.
 European markets perform strongly, while Asian and smaller regions contribute less significantly to global totals.  
 
-## 3️  Regression Analysis – Sales Trend Validation  
+## 3️.  Regression Analysis – Sales Trend Validation  
 
 <img width="700" height="395" alt="image" src="https://github.com/user-attachments/assets/fb79e051-c3e4-423a-9448-04935f8dd460" />  
 
@@ -159,7 +159,7 @@ The goal was to statistically verify the trend observed earlier in the line char
 The regression confirms a slight upward trend in sales over time, but the relationship is weak and not statistically significant.
 This suggests that seasonal effects (e.g., strong Q4 spikes) and external influences play a much greater role in shaping total sales than time alone.  
 
-## 4️  Optimization Model – Profit Maximization using Excel Solver  
+## 4️.  Optimization Model – Profit Maximization using Excel Solver  
 
 ** Description:**  
 
