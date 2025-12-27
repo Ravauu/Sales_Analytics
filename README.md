@@ -193,3 +193,28 @@ while keeping all other categories at minimum feasible levels (1–14 units).
  Interpretation:
 The model confirms that under the current cost–profit ratios, focusing on the Classic Cars segment yields the highest return on investment within the given budget.
 This optimization demonstrates how Solver can be applied in Excel to support strategic resource allocation and product mix decisions.
+
+#  PowerBI
+
+Interactive sales dashboard built in Power BI using transactional sales data.
+Key elements:
+
+Slicers: Year, Country, Product Type
+
+KPI cards: Total Sales, Total Profit, Margin %, Orders
+
+Line chart showing sales trend over time by product type
+
+Identification of maximum and minimum monthly sales with corresponding periods
+
+Technical details:
+
+Custom DAX measures for aggregations, percentages and time-based analysis
+
+Fact table with a date dimension for correct chronological sorting
+
+All visuals fully dynamic and responsive to filters
+
+<img width="1881" height="998" alt="image" src="https://github.com/user-attachments/assets/bf2c7a28-47c1-424f-9e78-16e7f8e9091b" />
+
+<img width="1877" height="1013" alt="image" src="https://github.com/user-attachments/assets/8d823a82-b02b-4683-8758-cb0285c1955e" />
