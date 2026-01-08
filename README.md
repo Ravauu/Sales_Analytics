@@ -215,6 +215,6 @@ Fact table with a date dimension for correct chronological sorting
 
 All visuals fully dynamic and responsive to filters
 
-<img width="1881" height="998" alt="image" src="https://github.com/user-attachments/assets/bf2c7a28-47c1-424f-9e78-16e7f8e9091b" />
+<img width="1424" height="764" alt="image" src="https://github.com/user-attachments/assets/c3147178-1016-48b3-aca1-008e9859255d" />
 
 <img width="1877" height="1013" alt="image" src="https://github.com/user-attachments/assets/8d823a82-b02b-4683-8758-cb0285c1955e" />
