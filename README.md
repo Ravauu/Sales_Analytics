@@ -151,7 +151,7 @@ A linear regression model was built to evaluate the relationship between time (m
 - R² = 0.113 → only about 11% of sales variation is explained by time, meaning sales are influenced by additional seasonal or external factors.  
 - F = 3.31, p = 0.08 → the model as a whole is not statistically significant at α = 0.05, meaning the observed trend is not strong enough to be confirmed statistically.  
 
-** Interpretation:**  
+**Interpretation:**
 
 The regression confirms a slight upward trend in sales over time, but the relationship is weak and not statistically significant.
 This suggests that seasonal effects (e.g., strong Q4 spikes) and external influences play a much greater role in shaping total sales than time alone.  
@@ -177,7 +177,7 @@ Constraints:
 
 Solving method: LP Simplex  
 
-** Results:**
+**Results:**
 
 Total Cost: $500,000
 
