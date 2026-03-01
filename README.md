@@ -41,7 +41,7 @@ Comparison of the 10 best-selling products based on total sales value
 **Results:**  
 
 Product S18_3232 clearly dominates in terms of total sales (~288K $),
-while the remaining products stay within a similar range of 130–190K $, indicating a consistent sales distribution across the rest of the product portfolio.  
+while the remaining products stay within a similar range of (130–190K $), indicating a consistent sales distribution across the rest of the product portfolio.  
 
 ###  Sales per Year  
 
