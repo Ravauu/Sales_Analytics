@@ -52,7 +52,7 @@ Total sales aggregated by year (2003–2005)
 
 **Results:**  
 
-Year 2004 recorded the highest sales level (~$4.7M), while 2005 shows a decline (~$1.79M), which is explained by a limited data range — only five months of transactions available for that year.
+Year 2004 recorded the highest sales level ($4.7M), while 2005 shows a decline ($1.79M), which is explained by a limited data range — only five months of transactions available for that year.
 
 ###  Average Margin per Country  
 
