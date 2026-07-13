@@ -194,22 +194,25 @@ The model confirms that under the current cost–profit ratios, focusing on the 
 Interactive sales dashboard built in Power BI using transactional sales data.
 Key elements:
 
-Slicers: Year, Country, Product Type
-
-KPI cards: Total Sales, Total Profit, Margin %, Orders
-
-Line chart showing sales trend over time by product type
-
-Identification of maximum and minimum monthly sales with corresponding periods
+- Slicers for year, country and product line
+- KPI cards for total sales, profit, margin percentage and order quantity
+- Monthly sales and profit trend analysis
+- Product line performance over time
+- Identification of maximum and minimum monthly sales with corresponding periods
+- Bubble chart comparing total sales, margin percentage and order volume by product line
+- Conditional formatting matrix comparing margins across countries and product lines
 
 Technical details:
 
-Custom DAX measures for aggregations, percentages and time-based analysis
-
-Fact table with a date dimension for correct chronological sorting
+- Custom DAX measures for aggregations, margin calculations and time-based analysis
+- Fact table connected to a dedicated date dimension
+- Dynamic visuals responding to report filters and slicer selections
+- Conditional formatting used to highlight performance differences
 
 All visuals fully dynamic and responsive to filters
 
-<img width="1424" height="764" alt="image" src="https://github.com/user-attachments/assets/c3147178-1016-48b3-aca1-008e9859255d" />
+<img width="2010" height="1127" alt="image1" src="https://github.com/user-attachments/assets/1d71cd96-ff44-41be-ac60-23b240ba972c" />
 
-<img width="1877" height="1013" alt="image" src="https://github.com/user-attachments/assets/8d823a82-b02b-4683-8758-cb0285c1955e" />
+<img width="2020" height="1130" alt="image2" src="https://github.com/user-attachments/assets/f498db24-2494-4f73-8b2c-2c4a6f410531" />
+
+<img width="1813" height="1098" alt="image3" src="https://github.com/user-attachments/assets/87ac2281-eb25-443d-86b5-8df319fa58dd" />
