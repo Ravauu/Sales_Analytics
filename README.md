@@ -1,5 +1,5 @@
 # Sales_Analytics
- # 📊 Sales Analytics & Optimization Project
+ # Sales Analytics & Optimization Project
 
 The project presents a complete sales data analysis process — from data cleaning in Power Query, through analytical exploration in Excel (pivot tables, KPI calculations), to building an optimization model using Solver and visualizing the results in Power BI.
 
