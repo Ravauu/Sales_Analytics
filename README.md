@@ -204,10 +204,15 @@ Key elements:
 
 Technical details:
 
-- Custom DAX measures for aggregations, margin calculations and time-based analysis
-- Fact table connected to a dedicated date dimension
+- Star-schema-style data model with dedicated Date, Customer, Product and Order dimensions
+- One-to-many relationships with single-direction filtering from dimensions to the sales fact table
+- Surrogate customer key created in Power Query and natural product codes used for product relationships
+- Custom DAX measures for sales, profit, margin and time-based analysis
 - Dynamic visuals responding to report filters and slicer selections
 - Conditional formatting used to highlight performance differences
+
+<img width="1385" height="997" alt="image" src="https://github.com/user-attachments/assets/6e1e2c6b-a5c2-4fd1-a995-7356a505e978" />
+
 
 All visuals fully dynamic and responsive to filters
 
