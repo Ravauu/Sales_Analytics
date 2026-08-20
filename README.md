@@ -214,7 +214,7 @@ Technical details:
 <img width="1385" height="997" alt="image" src="https://github.com/user-attachments/assets/6e1e2c6b-a5c2-4fd1-a995-7356a505e978" />
 
 
-All visuals fully dynamic and responsive to filters
+## All visuals fully dynamic and responsive to filters
 
 <img width="2010" height="1127" alt="image1" src="https://github.com/user-attachments/assets/1d71cd96-ff44-41be-ac60-23b240ba972c" />
 
